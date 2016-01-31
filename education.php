@@ -14,6 +14,7 @@
                         <div class="exCon">
                             <h4>Expert en Technologies de l'Information, Bac+5</h4>
                             <h5>Epitech</h5>
+                            <p>#C #C++ #Java #Linux #Shell #SQL #UML #Businness #Gestion de projet #Anglais #Android #Entreprenariat #Admin Sys</p>
                         </div>
                     </div>
                 </div>
@@ -26,7 +27,8 @@
                         <div class="exCon">
                             <h4>Échange universitaire</h4>
                             <h5>Université Tongji, Shanghaï</h5>
-                          </div>
+                            <p>#UML #Oracle #IOs #Chinois</p>
+                        </div>
                     </div>
                 </div>
             </div>

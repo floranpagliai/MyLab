@@ -14,7 +14,7 @@
                         <div class="exCon">
                             <h4>Smile Open Source Solutions</h4>
                             <h5>Dévelopeur Web E-Commerce</h5>
-                            <h5>//php //magento //mysql<h5>
+                            <h5>#php #magento #mysql<h5>
                             <p>
                                 Interventions sur les sites e-commerces Magento de grandes marques comme Vanity Fair ou Dior, <br/>
                                 j'ai travaillé sur l'intégration de nouveaux design ou encore sur de nouvelle fonctionnalités.
@@ -31,18 +31,18 @@
                         <div class="arrowpart"></div>
                         <div class="exCon">
                             <h4>Entreprenneur</h4>
-                            <h5>//php //symfony //mysql //drupal //mongo //gestion de projet</h5>
+                            <h5>#php #symfony #mysql #drupal #mongo #gestion de projet</h5>
                             <p>Accompagnement d'entreprises dans le développement de leur présence sur internet.<br/>
                               Développement de sites vitrine et CMS.<br/>
                             </p>
                             <h4>Rocketchef</h4>
-                            <h5>//php //symfony //mysql //agile //lean</h5>
+                            <h5>#php #symfony #mysql #agile #lean</h5>
                             <p>
                               Développement d'un logiciel de gestion de restaurant, avec calcul des coûts, gestion des stocks, ect.<br/>
                               Lancement du produit en mode lean startup.
                             </p>
                             <h4>Wine'ot</h4>
-                            <h5>//php //symfony //mongo //agile //gestion de projet</h5>
+                            <h5>#php #symfony #mongo #agile #gestion de projet</h5>
                             <p>
                               Wine'ot est une application qui permet de reconnaitre un vin en le prennant en photo et de profiler les goûts pour conseiller les meilleurs vin.<br/>
                               Gestion d'une équipe de 7 personnes pendant deux ans, mise en place de méthodes, git workflow et intégration continue avec des outils adaptés.<br/>
@@ -62,7 +62,7 @@
                         <div class="exCon">
                             <h4>Yooda</h4>
                             <h5>Développeur Fullstack Symfony</h5>
-                            <h5>//php //symfony //mongo //oauth //api<h5>
+                            <h5>#php #symfony #mongo #oauth #api<h5>
                             <p>
 Développement d'une Webapp sous Symfony et
 relation avec une base de donnée Big data.<br/>
@@ -84,7 +84,7 @@ bundle client, OAuth.</p>
                         <div class="exCon">
                             <h4>Spiral Group</h4>
                             <h5>Assistant Chef de Projet</h5>
-                            <h5>//recette //gestion de projet //php</h5>
+                            <h5>#recette #gestion de projet #php</h5>
                             <p>Assistant de chef de projet et aide au développement en PHP.</br>
                               Mise en place d'un gestionnaire de projet et recette logicielle.</p>
                         </div>
