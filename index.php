@@ -37,6 +37,18 @@
         <?php include('experience.php'); ?>
         <?php include('education.php'); ?>
         <?php include('portofolio.php'); ?>
+        <!--tumblr start-->
+        <section class="tumblr" id="tumblr">
+          <div class="container">
+            <div class="heading">
+              <h2>Blog</h2>
+              <p>Mes derniers posts</p>
+            </div>
+            <div class="row">
+            </div>
+        <script src="http://blog.floranpagliai.fr/js?num=40"></script>
+      </div>
+    </section>
         <?php include('contact.php'); ?>
         <!--footer start-->
         <section class="footer" id="footer">

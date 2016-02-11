@@ -8,7 +8,7 @@
 	License: GNU General Public License version 3.0
 	License URI: http://www.gnu.org/licenses/gpl-3.0.html
 	Version: 1.0
-	
+
 	1. CSS Reset
 	2. Document Setup
 	3. Header Part
@@ -19,12 +19,13 @@
 	7. Technical Skills Style
 	8. Work Experience Style
 	9. Education Style
-	10. Protfolio Style
+	10. Portfolio Style
 	11. Get in tuch Style
 	12. Footer Style
 	13. Responsive style
-		
-		
+	14. Tumblr Style
+
+
 ---------------------------------------------------------------------------------
 /* 1. CSS Reset
 -------------------------------------------------------------------------------*/
@@ -187,7 +188,7 @@ header{
 
 /*------------------------------------
 	3.1 Slide show background control
---------------------------------------*/ 
+--------------------------------------*/
 .bannerPart{
 	background:#1b1f2b;
 }
@@ -615,7 +616,7 @@ header{
 	width:120px;
 	height:120px;
 	padding:40px 0 40px 0;
-	
+
 	-webkit-border-radius: 50%;
     border-radius: 50%;
 }
@@ -694,21 +695,21 @@ header{
 
 
 /*----------------------------------------------------
- 10. Protfolio Style
+ 10. Portfolio Style
 ------------------------------------------------------*/
-.protfolio{
+.portfolio{
 	background:#2bb3dd;
 }
-.protfolio .container{
+.portfolio .container{
 	padding-top:85px ;
 	padding-bottom:90px ;
 }
 
-.protfolio .heading p{
+.portfolio .heading p{
 	padding-bottom:41px;
 }
 
-.protfolio h4{
+.portfolio h4{
 	font-weight:700;
 }
 
@@ -738,7 +739,7 @@ header{
 	display:block;
 	text-decoration:none;
 	border:solid 1px #95d9ee;
-	
+
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
@@ -746,7 +747,7 @@ header{
 .portfolioFilter ul li a:hover{
 	border:solid 1px #15596e;
 	color:#15596e;
-	
+
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
@@ -790,20 +791,20 @@ span.hoverBox{
 	position: absolute;
 	left:0px;
 	bottom: 0px;
-	
+
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
-	
+
 	background: rgba(0, 0, 0, 0.1);
-	
+
 }
 ul.portfolioContainer li:hover span.hoverBox{
 	visibility:visible;
 	left:0px;
 	bottom: 0px;
-	
+
 	background: rgba(0, 0, 0, 0.8);
-	
+
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
@@ -815,7 +816,7 @@ span.hoverBox a{
 span.hoverBox .smallIcon{
 	/*width:92px;
 	margin:0px auto;*/
-	
+
 	width: 94px;
 	margin: 0px auto;
 	position: absolute;
@@ -838,14 +839,14 @@ span.hoverBox .zoom{
 	line-height:50px;
 	display: block;
 	float: left;
-	
+
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
 ul.portfolioContainer li:hover span.hoverBox .zoom{
 	visibility:visible;
 	left:0;
-	
+
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
@@ -863,14 +864,14 @@ span.hoverBox .linKed{
 	line-height:52px;
 	display: block;
 	float: right;
-	
+
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
 ul.portfolioContainer li:hover span.hoverBox .linKed{
 	visibility:visible;
 	right:0%;
-	
+
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
@@ -898,7 +899,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 }
 .isotope .isotope-item {
 	padding:0;
-	
+
     -webkit-transition-property: -webkit-transform, opacity;
     -moz-transition-property: -moz-transform, opacity;
     transition-property: transform, opacity;
@@ -933,7 +934,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	margin-left: -26% !important;
 	padding: 0px !important;
 	height:80px !important;
-	
+
 	display: block;
 	background-color: rgba(24,27,34,1);
 	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#B0000000, EndColorStr=#B0000000);
@@ -1114,7 +1115,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	margin:0 6px;
 	width:42px !important;
 	height:42px !important;
-	
+
 	-webkit-border-radius: 50%;
     border-radius: 50%;
 }
@@ -1136,7 +1137,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 
 
 
-	
+
 /*---------------------------------------------------------------------------------
  13. Responsive style
 -------------------------------------------------------------------------------*/
@@ -1147,7 +1148,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 		height:140px;
 		padding-top:50px;
 	}
-	
+
 	.education .workYear{
 		padding-top:58px;
 	}
@@ -1159,7 +1160,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 		padding-left:18px;
 		padding-right:18px;
 	}
-	
+
 	.bannerText{
 		padding-left:25px;
 		padding-right:25px;
@@ -1189,15 +1190,15 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	#header h3 span{
 		font-size: 16px;
 	}
-	
+
 	.abc{
 		width:100%;
 	}
-	
+
 	.navbar.navbar-inverse.navbar-static-top a {
 		padding-left: 17px;
 	}
-	
+
 }
 
 
@@ -1220,9 +1221,9 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	ul.portfolioContainer li.col-xs-6{
 		width:49%;
 		min-height: 85px;
-		
+
 	}
-	
+
 }
 
 
@@ -1263,8 +1264,8 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 		-ms-transform: translate(0px, -70px); /* IE 9 */
 		-webkit-transform: translate(0px, -70px); /* Safari and Chrome */
 	}
-	
-	
+
+
 	.bannerText {
 		top: 25%;
 		padding-top:15px;
@@ -1299,27 +1300,27 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 		min-height: 600px;
 		height: 100%;
 	}
-	
+
 	.item{
 		width: 19%;
 	}
 	.item p {
 		font-size: 36px;
 	}
-	
+
 	.aboutme img{
 		width:100%;
 	}
-	
+
 	ul.portfolioContainer li.col-xs-6{
 		width:100%;
 	}
-	
+
 	.bntDownload{
 		font-size: 13px;
 		padding: 16px 14px;
 	}
-	
+
 	.conForm textarea{
 		margin-bottom:20px;
 	}
@@ -1327,18 +1328,132 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 		display:block;
 		padding:0 0 40px 0;
 	}
-	
+
 	.nameError,
 	.emailError{
 		left:0px;
 		top:0px;
-		
+
 	}
 }
 
+/*----------------------------------------------------
+ 12. Tumblr Style
+------------------------------------------------------*/
+.tumblr {
+	background-color: #eeeeee;
+	text-align: center;
+}
+.tumblr .container{
+	padding:40px 0;
+}
+.tumblr h2{
+	color: #ff675f;
+}
+.tumblr p{
+	color: #84868d;
+	/*font-size:13px;*/
+	line-height:18px;
+}
+.tumblr a{
+	color: #ff675f;
+}
+.tumblr_posts {
+display:inline-block;
+}
+.tumblr_post {
+	display:inline-block;
+		align-content: center;
+	min-width: 440px;
+	width: 50%;
+	float: left;
+	padding: 20px;
+	overflow: hidden;
+	background-color: #eeeeee;
+}
+.tumblr_text_post::before {
+	display: block;
+	content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAC3ElEQVRoQ+1XT0gUURz+XtSsJWV0aCUqF0QlTBAi6VBt5SUoKGgL7RIWnoIQJALDkyQEBdJVUruk1AYGBV2stA5hBIJJqPRnK8LxEJqY7Ra9eANvnRnHeTOzb8emZi+7O/P7/d73/b7vPX6PIOAfEnD8CAmstIL/nwIdw2maz6431URcNdVVMAMeEhDIFyog8rfZQleT46IU2/eXEhWG974rEHgCObXfItl3BQJPwK2FzJ43N8B3BQJPIPAWCgmYOuD7HvjrFaCDEW363NN+WMNa33ZHNmZDvd7WU9r/Fy2PtG8ST9sOnMJplBOovV6L+fQaS/CUUhCyWOrE5W4oBYWG2MyPedy70pB9Zs7RBxcXfUf/+SG5BF6lNqHtwU5Mza5bQsIMZmNxDFWHTmLrjt1a7Oc3LzH6+C5mpj7oCAA6ztnnDHzr0dfYVfLVO4HEhRbNNskb7YQrYOcbO3WWyyuM/MRA84DQjsxCejzmBEsL8YRP42NZL9qt1DlUipvPy4Rg9AHn9k6icf9bYQ7be9sqKrU41tC8EGBF+4a3o/NZ2bL7hC/MOt+4bxJ1NR+F4FlATgScWogjmVtYjYejWzA4EcWEuiFLhoEuj35DvFzFkaovWL/2lyPw/BRybSF9dSd7wDEaD4HSjlEPa0tJkU+g9BpQEJMCbkmRhffAu4uGx/IJVCbzA55XHUuEBAwdMG9iPhPlSwY+A/H60i30zxA4XV+nNel2bx9k/Wb1fFNAFmh9HV8JBH4P6Dt3tuEMopujrjip6jS6enoM9vNVgZwJTKvo6r7lPwEvs79TafQ3MXnH6FNlBoQU8YJ2NzOnQK3izDcxLYYiRQ6kbecWB3dipR8gx3IB5z2X3ifxzHG7fDGBJ4iBKCN6FbwDcpFJ6SxoppocxOJF2iJdSEBTkpFYpXSAkmoQlLiA4T6UIgVCR/A70yQCz4o7IuAehX8ZIQH/em29UqjASivwB3gOkUBjoa8pAAAAAElFTkSuQmCC");
+}
+.tumblr_video_post::before {
+	display: block;
+	content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABxklEQVRoQ+1YTU7CUBD+prJwQSI3EG9QNwZX6s4EE1suInIBPYBJuYGcAGpiEw/Agp1cwAhLDQvcg8+UUAKltLy+hrY4bDszb76fPGYeIec/ynn/YABpK8gKsAKKDLCFFAlUTmcFlClULLCfClx3jHIBsASgE1BWJCkwXQADAvoT4P7NtAdxz1hTYN78O4BS3KKSeeMJcBoFomJVyhCF516je7Vcfw1AtW3YRLiVbEIpXAi8ODXbCCqiW3rpEMU7CDy633uN7krPQQDGRDhS6kgy2bWTY9on/rSzp3ND0zQLoIWNIwHcdAwheX4i4a+mvSDTswuAS3/xTAPw2yWImcwC+P74Mv12yRWA0edoKytmVgEG4OmX1i3ECrACW90hm4PYQmyh/26h2ShBWhNEx2FcZPaf2J1GZ8Pcb7EOwsMmEJkG4DU9H6dbAC6kx+lq29j9QiMwdGr22u49W2h8topUIJMr5ZKtIgG4S/2BQH9Xa6UQ+JkS9C2X+lav0V3Z0gLfheYgmnCfVQiht0Lc21MIDAH0p4R6VPNhZ+znw1ZcVtPIYwXSYD30ZS7thmTPZwvJMpZ0PCuQNKOy9VgBWcaSjs+9An8lkdcx2ykeIAAAAABJRU5ErkJggg==");
+}
+.tumblr_photo_post::before {
+	display: block;
+	content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAECUlEQVRoQ+2Za0iTYRTH/7NyWyuNUrPSZWEaVAbVrMjSIGJdKMmUCiK7QNCF+hBd6OJrfTAk6AJJH4qMbmaaFYqjD+Wiq0qQftGytGVpagNN3bTmE8/zNnP17nXv2tykPV/G3Puc5/875zznHDcZBvmSDXL98AF4OoK+CHh9BIqXxx0Jt5A9064hiIo9VRXINGdV3mKv6x4lu4WBEJTISM/ZjPwHd8UOEE2hg8nay0eMxlRqQJUzjNkZKACraEKQfjJPx9mDsAtwKGlpIvz8Cg4bjWyvpwDo2YRg8ck8XYkQhH2AZC3dEO9ugKcVbwWduyBmSt+/6zNu6xKkAhC6wUsAkHFbJ+hssQj4ABwpTw6mkC8CbqtCgz4CjqQZfcbpSxxRW4/r30yC57TO3Y7lpoc2n02KjsKsBfMxXh2Gcepw9lmD4SM+G+rx6ulz1Fa/cVSzzXNOA9gLsdW6tV6PU4dhxboUTJ4aJSrwfdUbFOXkosFQLwlEMgAp51gZvZz/Gtl3KgQPS10Tg81JMwH5aCBcCwzxR3tHJ3KK9NCXVuJt3Se2b0rEBMTHzsD6FQlQqZSApRv4qAO6+C7vyJLN4aT1AStAv8b7iC969BKnswvQ3iGcciNUShzbtQGLNDGSIdwHoNYCylBQ8SfO32C8cuVwBASFYJhcwd5/7zKjraUJXaZO9j7zwFYeorORj4QDyz0Aw0NZ6tC0SdxxnHl+dtwSLFy6Gv5yBZ7rdah7V9Urr7WlCW1fm0EjcS8rjU8nCkBB+lnuAQiNAwIjcTG3GBdzdczze7lzGBkwislpaW5A/vULNtKaDLUsEttStNiWsgxorQEan/SnH+4BiFjFLvDGfZnswgaHTcSW3UdFAcwd7Wiu/8Au9tVT+/mLXHffQwDR7H8dzFu7h71OiIzG5KjpmD0vAXK5Es/0xTYpRJ+xWCz4XMOn1Yu8s7zw6mzvAfAbMlRUTI/lBz7VVHsJgEAKKVQjRAG8K4UELnGIepIogHdd4t4yakLijnRWRgPGBCMwKEQQom8ZvZuVxsqpZ8solfmrkelLK3Ag8xITzhrZmGD4K/hG1m02s/r/VyMzNQIGTzYypvb3HFT48CXOXBEfJY7u3ID4WG8aJf6AoGl0s7AEj8tsh7lFmhlYvzKBTxuvGuas2U4jMTaWzUWii6bNl1JJkyi1555OLKSUXuyASEAxmk8vumi3NRuBthqH5h4hswMH0G9Pde4BH4BzfnPdrv8wAmVcCWSId50P/8ESgV6m4aR9uUvKuUQABf9wrOu2EiyWaThpX6/T00k5Rwf1Ta5T4oQlgnSZhpP+A4f1KFLGQscNeDoR6Om59jxv1ef7ldKJpHDpFl8EXOpOJ4z5IuCE01y65Sdd0DhPc8QFIwAAAABJRU5ErkJggg==");
+}
+.tumblr_photo_post {
+	display: none;
+}
+.tumblr_title {
+	color:#84868d;
+	font-family: 'Open Sans', sans-serif;
+	font-size:36px;
+	line-height:38px;
+	padding-bottom:0px;
+	font-weight:300;
+	text-transform:uppercase;
+	margin:0px;
+}
+.tumblr_body {
+	/*display: none;*/
+	text-align: justify;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 0px;
+	padding-top: 8px;
+}
+.tumblr_body p {
+	padding-bottom: 10px;
+}
+.tumblr_body img {
 
+}
+.tumblr_caption {
+	display: none;
+}
+.read_more_container {
+text-align: center;
+}
+.read_more_container a {
 
+}
 
+.tumblr_quote {
 
+}
+.tumblr_quote p {
 
+}
+.tumblr_source {
 
+}
+code, pre {
+    font-family: Monaco, Andale Mono, Courier New, monospace;
+}
+code {
+    background-color: #fee9cc;
+    color: rgba(0, 0, 0, 0.75);
+    padding: 1px 3px;
+    font-size: 12px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+pre {
+    display: block;
+    padding: 14px;
+    margin: 0 0 18px;
+    line-height: 16px;
+    font-size: 11px;
+    border: 1px solid #d9d9d9;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+pre code {
+    background-color: #fff;
+    color:#737373;
+    font-size: 11px;
+    padding: 0;
+}

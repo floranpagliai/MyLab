@@ -1,5 +1,5 @@
 <!--protfolio start-->
-<section class="protfolio" id="protfolio">
+<section class="portfolio" id="portfolio">
   <div class="container">
     <div class="heading">
       <h2>Mon labo</h2>

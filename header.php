@@ -29,7 +29,8 @@
                                             <li class="menuItem"><a href="#technical">Compétences</a></li>
                                             <li class="menuItem"><a href="#exprience">Expériences</a></li>
                                             <li class="menuItem"><a href="#education">Diplômes</a></li>
-                                            <li class="menuItem"><a href="#protfolio">Mon labo</a></li>
+                                            <li class="menuItem"><a href="#portfolio">Mon labo</a></li>
+                                            <li class="menuItem"><a href="#tumblr">Blog</a></li>
                                             <li class="menuItem"><a href="#contact">Contact</a></li>
                                         </ul>
                                     </div>

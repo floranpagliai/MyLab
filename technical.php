@@ -2,11 +2,11 @@
 <section class="technical" id="technical">
   <div class="container">
     <div class="heading">
-      <h2>Technical Skills</h2>
+      <h2>Compétences</h2>
       <p>Je peux dire que je suis assez bon à</p>
     </div>
     <div class="row">
-      
+
       <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 skillsArea">
         <div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6 skills">
           <span class="chart skilBg" data-percent="80"> <span class="percent"></span> </span>
