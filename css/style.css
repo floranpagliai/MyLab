@@ -1152,6 +1152,9 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	.education .workYear{
 		padding-top:58px;
 	}
+	.tumblr_post {
+		width: 50%;
+	}
 }
 
 
@@ -1368,6 +1371,7 @@ display:inline-block;
 	width: 50%;
 	float: left;
 	padding: 20px;
+	padding-top: 0px;
 	overflow: hidden;
 	background-color: #eeeeee;
 }
@@ -1399,8 +1403,8 @@ display:inline-block;
 .tumblr_body {
 	/*display: none;*/
 	text-align: justify;
-	padding-left: 50px;
-	padding-right: 50px;
+	padding-left: 2em;
+	padding-right: 2em;
 	padding-bottom: 0px;
 	padding-top: 8px;
 }

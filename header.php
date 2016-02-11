@@ -10,7 +10,7 @@
             <!--banner end-->
             <div class="bannerText container">
                 <h1>Floran Pagliai</h1>
-                <h2>Passionné par la création de super produits</h2>
+                <!-- <h2>Passionné par la création de super produits</h2> -->
             </div>
             <!--menu start-->
             <div class="menu">
