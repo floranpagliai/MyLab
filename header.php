@@ -10,7 +10,7 @@
             <!--banner end-->
             <div class="bannerText container">
                 <h1>Floran Pagliai</h1>
-                <h2>Passionné par la création de super produits</h2>
+                <!-- <h2>Passionné par la création de super produits</h2> -->
             </div>
             <!--menu start-->
             <div class="menu">
@@ -24,12 +24,12 @@
                                         <a class="navbar-brand" href="#">Menu</a> </div>
                                     <div class="navbar-collapse collapse">
                                         <ul class="nav navbar-nav">
-                                            <li class="menuItem active"><a href="#wrapper">Accueil</a></li>
-                                            <li class="menuItem"><a href="#aboutme">Moi</a></li>
+                                            <li class="menuItem"><a href="#aboutme">Accueil</a></li>
                                             <li class="menuItem"><a href="#technical">Compétences</a></li>
                                             <li class="menuItem"><a href="#exprience">Expériences</a></li>
                                             <li class="menuItem"><a href="#education">Diplômes</a></li>
-                                            <li class="menuItem"><a href="#protfolio">Mon labo</a></li>
+                                            <li class="menuItem"><a href="#protfolio">Labo</a></li>
+                                            <li class="menuItem"><a href="#tumblr">Blog</a></li>
                                             <li class="menuItem"><a href="#contact">Contact</a></li>
                                         </ul>
                                     </div>

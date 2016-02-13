@@ -71,6 +71,15 @@
            </span>
            <img src="images/socialbet.jpg" alt=""  > </div>
       </li>
+      <li class="mobile epitech col-xs-6 col-sm-4 col-md-3 col-lg-3">
+        <div class="lightCon">
+          <span class="hoverBox">
+            <span class="smallIcon">
+              <a rel="lightbox-demo" href="images/epimarket-big.jpg" title="Social Bet" class="zoom lb lb_warsaw1"><i class="fa fa-search fa-2x"></i></a>
+             </span>
+           </span>
+           <img src="images/epimarket.jpg" alt=""  > </div>
+      </li>
     </ul>
   </div>
 </section>

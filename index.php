@@ -37,6 +37,7 @@
         <?php include('experience.php'); ?>
         <?php include('education.php'); ?>
         <?php include('portofolio.php'); ?>
+        <?php include('tumblr.php'); ?>
         <?php include('contact.php'); ?>
         <!--footer start-->
         <section class="footer" id="footer">
@@ -71,12 +72,12 @@
                 //enabling stickUp on the '.navbar-wrapper' class
                 $('.navbar-wrapper').stickUp({
                     parts: {
-                        0: 'banner',
-                        1: 'aboutme',
-                        2: 'technical',
-                        3: 'exprience',
-                        4: 'education',
-                        5: 'protfolio',
+                        0: 'aboutme',
+                        1: 'technical',
+                        2: 'exprience',
+                        3: 'education',
+                        4: 'protfolio',
+                        5: 'tumblr',
                         6: 'contact'
                     },
                     itemClass: 'menuItem',

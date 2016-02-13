@@ -1,7 +1,7 @@
 
-(function($) { 
+(function($) {
 	"use strict";
-	
+
 	(function($) {
 $(function() {
 jQuery('#loopedSlider').prepend("<a href='#' class='previous'>&lt;</a><a href='#' class='next'>&gt;</a>");
@@ -17,8 +17,8 @@ jQuery('#loopedSlider').prepend("<a href='#' class='previous'>&lt;</a><a href='#
 var windowWidth = $(window).width();
     var windowHeight =$(window).height();
     $('.banner').css({'width':windowWidth ,'height':windowHeight -"60" });
-	
-	
+
+
 
 
 // for portfoli filter jquary
@@ -32,11 +32,11 @@ $(window).load(function(){
             queue: false
         }
     });
- 
+
     $('.portfolioFilter a').click(function(){
         $('.portfolioFilter .current').removeClass('current');
         $(this).addClass('current');
- 
+
         var selector = $(this).attr('data-filter');
         $container.isotope({
             filter: selector,
@@ -47,7 +47,7 @@ $(window).load(function(){
             }
          });
          return false;
-    }); 
+    });
 });
 
 
@@ -57,7 +57,7 @@ $(window).load(function(){
 jQuery(function($) {
 	var $chosenSheet,
 	$stylesheets = $( "a[id^=theme-]" );
-	
+
 	// run rlightbox
 	$( ".lb" ).rlightbox();
 	$( ".lb_title-overwritten" ).rlightbox({overwriteTitle: true});
@@ -73,17 +73,16 @@ $(document).ready(function(e) {
 var index=0;
 $(document).scroll(function(){
 	var top = $('.technical').height()-$(window).scrollTop();
-	console.log(top)
 	if(top<-300){
-		if(index==0){	
-			
+		if(index==0){
+
 			$('.chart').easyPieChart({
 				easing: 'easeOutBounce',
 				onStep: function(from, to, percent) {
 					$(this.el).find('.percent').text(Math.round(percent));
 				}
 			});
-			
+
 		}
 		index++;
 	}
@@ -115,7 +114,7 @@ $(function() {
 
 // chart loding
 $(window).load(function() {
-	
+
 	var chart = window.chart = $('.chart').data('easyPieChart');
 	$('.js_update').on('click', function() {
 		chart.update(Math.random()*100);
@@ -127,7 +126,7 @@ $(window).load(function() {
 
 
 //jQuery
-$(window).load(function() {    
+$(window).load(function() {
 
         var theWindow        = $(window),
             $bg              = $(".bannerImg");
