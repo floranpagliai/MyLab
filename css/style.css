@@ -697,19 +697,19 @@ header{
 /*----------------------------------------------------
  10. Portfolio Style
 ------------------------------------------------------*/
-.protfolio{
+.portfolio{
 	background:#2bb3dd;
 }
-.protfolio .container{
+.portfolio .container{
 	padding-top:85px ;
 	padding-bottom:90px ;
 }
 
-.protfolio .heading p{
+.portfolio .heading p{
 	padding-bottom:41px;
 }
 
-.protfolio h4{
+.portfolio h4{
 	font-weight:700;
 }
 
