@@ -24,12 +24,11 @@
                                         <a class="navbar-brand" href="#">Menu</a> </div>
                                     <div class="navbar-collapse collapse">
                                         <ul class="nav navbar-nav">
-                                            <li class="menuItem active"><a href="#wrapper">Accueil</a></li>
-                                            <li class="menuItem"><a href="#aboutme">Moi</a></li>
+                                            <li class="menuItem"><a href="#aboutme">Accueil</a></li>
                                             <li class="menuItem"><a href="#technical">Compétences</a></li>
                                             <li class="menuItem"><a href="#exprience">Expériences</a></li>
                                             <li class="menuItem"><a href="#education">Diplômes</a></li>
-                                            <li class="menuItem"><a href="#portfolio">Mon labo</a></li>
+                                            <li class="menuItem"><a href="#protfolio">Labo</a></li>
                                             <li class="menuItem"><a href="#tumblr">Blog</a></li>
                                             <li class="menuItem"><a href="#contact">Contact</a></li>
                                         </ul>
